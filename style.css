@@ -4,6 +4,10 @@ p {
   font-family: 'Libre Baskerville', serif;
 }
 
+main article h3 {
+  font-family: 'Libre Baskerville', serif;
+}
+
 .text-secondary {
   font-family: 'Montserrat', sans-serif;
 }
